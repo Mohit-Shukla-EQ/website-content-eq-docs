@@ -3,9 +3,7 @@
     {
       "id": "sample-markdown",
       "type": "markdown",
-      "content": "this is a **markdown** text",
-      "bool" : false,
-      "n" : 123
+      "content": "this is a **markdown** text"
     }
   ]
 }
