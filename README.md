@@ -1,4 +1,4 @@
-# website-content-vanilla
+# website-content-eq-docs
 
 Website content for a documentation of website framework built using React and Bootstrap.
 
