@@ -1,0 +1,44 @@
+{
+  "sideBars": [
+    {
+      "items": [
+        {
+          "label": "Getting Started",
+          "htmlTag": "unordered-list",
+          "listItems": [
+            {
+              "label": "Introduction",
+              "htmlTag": "list-item"
+            },
+            {
+              "label": "Installation",
+              "htmlTag": "list-item"
+            }
+          ]
+        },
+        {
+          "label": "Components",
+          "htmlTag": "unordered-list",
+          "listItems": [
+            {
+              "label": "Album",
+              "htmlTag": "list-item"
+            },
+            {
+              "label": "Centered Hero",
+              "htmlTag": "list-item"
+            },
+            {
+              "label": "Dropdown",
+              "htmlTag": "list-item"
+            }
+          ]
+        },
+        {
+          "label": "About",
+          "htmlTag": "list-item"
+        }
+      ]
+    }
+  ]
+}
